@@ -8,7 +8,7 @@ uv を使用して依存関係を解決し、開発サーバを起動します�
 
 ```bash
 # 依存関係は pyproject.toml に定義済み（docling, fastapi, uvicorn, python-multipart）
-uv run python main.py
+uv run main.py
 ```
 
 サーバが起動したら、ブラウザで以下を開きます。
